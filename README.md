@@ -5,10 +5,6 @@ Documentation of the deployment and management tasks using Virtualization and Co
 
 ## Task Summary
 
-### Exploration of Virtualization and Containerization
-- **Introduction**: Gain insights into virtualization and containerization principles.
-- **Tool Familiarization**: Become proficient with tools essential for deployment and management.
-
 ### Hardware Setup for Virtualization Platforms
 - **Server Configuration**: Configure hardware resources for virtualization platforms.
 
