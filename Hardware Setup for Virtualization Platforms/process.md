@@ -1,4 +1,3 @@
-Zde je detailnější dokumentace vytvořená z vašich poznámek:
 
 ---
 
@@ -67,7 +66,3 @@ Zde je detailnější dokumentace vytvořená z vašich poznámek:
      - HDD: 200GB
    - Assign the VM to VLAN 1558.
    - Power on the VM.
-
-## Conclusion
-
-This documentation outlines the detailed steps undertaken during the deployment of devices and network configuration for virtualization. Each step contributes to the setup and management of virtual machines and associated networks in the environment.
