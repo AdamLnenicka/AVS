@@ -1,7 +1,7 @@
 
 ## Project Overview
 
-This repository serves as a comprehensive documentation of the deployment and management tasks using Virtualization and Containerization. The project focuses on practical implementations of virtualization and containerization technologies, covering various platforms and management strategies.
+Focumentation of the deployment and management tasks using Virtualization and Containerization. The project focuses on practical implementations of virtualization and containerization technologies, covering various platforms and management strategies.
 
 ## Task Summary
 
