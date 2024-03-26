@@ -1,7 +1,7 @@
 
 ## Project Overview
 
-Focumentation of the deployment and management tasks using Virtualization and Containerization. The project focuses on practical implementations of virtualization and containerization technologies, covering various platforms and management strategies.
+Documentation of the deployment and management tasks using Virtualization and Containerization. The project focuses on practical implementations of virtualization and containerization technologies, covering various platforms and management strategies.
 
 ## Task Summary
 
